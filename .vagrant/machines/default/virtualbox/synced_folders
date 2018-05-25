@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www","hostpath":"C:/Users/00lgr02/Mina program/GitHub/scotch-box","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www","hostpath":"E:/GitHub/my_scotch-box","disabled":false,"__vagrantfile":true}}}
