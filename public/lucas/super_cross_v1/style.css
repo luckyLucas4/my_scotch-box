@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    display: inline-block;
+    padding-right: 5em;
+    padding-top: 0;
+}
+
+.controls-info{
+    position: absolute;
+    top: 75%;
+    margin-left: 20%;
+}
+
+.credits{
+    position: absolute;
+    top: 90%;
+    margin-left: 40%;
+}
