@@ -9,12 +9,13 @@ p {
 .controls-info{
     width: 200px;
     position: relative;
-    float:right;
-    margin-right: 0px, 
+    float: right;
+    margin-top: 5%;
+    margin-right: 10px, 
 }
 
 .credits{
     position: absolute;
     top: 90%;
-    margin-left: 40%;
+    left: 10%;
 }
