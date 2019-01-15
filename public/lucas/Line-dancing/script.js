@@ -346,8 +346,6 @@ function KeyboardInput(){
     player2.throwback += 100;
 }
 
-
-
 function rectangle(x, y, width, height, color) {
     ctx.fillStyle = color;
     ctx.fillRect(x, y, width, height);
@@ -361,5 +359,3 @@ function line(x1, y1, x2, y2, width, color) {
     ctx.lineTo(x2, y2);
     ctx.stroke();
 }
-
-
